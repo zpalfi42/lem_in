@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "lem_in.h": "c",
+        "typeinfo": "c",
+        "cstdlib": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c"
+    }
+}
